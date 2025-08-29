@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Welcome to my website</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <meta name="robots" content="noindex, nofollow">
+</head>
+<body>
+    <header>
+        <h1>Family Guy Funny Moments</h1>
+    </header>
+    <nav>
+        <a href="index.html">Home</a> |
+        <a href="Competition.html">Competition</a> |
+        <a href="Audiance.html">Audience</a>
+    </nav>
+    <main>
+        <h2>Website Summary</h2>
+        <p>Welcome to Family Guy Funny Moments!</p>
+        <p>We are a website dedicated to posting your favorite clips from the show.</p>
+        <h4>What Are We?</h4>
+        <p>We are a non-profit website that posts the best Family Guy clips of any and all characters. We actively gather
+            the best clips from every episode and add them in either a compilation or as their own clips.</p>
+        <h4>What content will the site Contain?</h4>
+        <p>The site will contain a wide variety of Family Guy clips, including but not limited to:</p>
+        <ul>
+            <li>Funny moments</li>
+            <li>Character highlights</li>
+            <li>Episode compilations</li>
+        </ul>
+        <h4>Where will you get all the content for your site?</h4>
+        <p>We will gather content from various sources, including:</p>
+        <ul>
+            <li>Official Family Guy episodes</li>
+            <li>User submissions</li>
+            <li>Social media platforms</li>
+        </ul>
+        <h4>Why should users care about the focus of the site?</h4>
+        <p>We believe that Family Guy is a cultural phenomenon that deserves to be celebrated. By curating the best clips
+            from the show, we aim to create a community for fans to enjoy and share their favorite moments that highlight
+            the show's humor, characters, and iconic cutaways.</p>
+        <h4>Why should a site be built for this?</h4>
+        <p>Creating a dedicated site for Family Guy clips allows fans to easily access and share their favorite moments
+            because of how many clips there are. There are hundreds or thousands of clips to pick and choose from that can
+            range from songs to chicken fights so I believe that this website can easily bring them all together to easily
+            be found and shared fostering a sense of community and engagement around the show. It also provides a platform for
+            discovering new clips and re-experiencing classic moments.</p>
+        <h4>What would you like users to do at your site?</h4>
+        <p>We would like users to explore the site, watch their favorite clips, and share their own submissions. We
+            encourage community interaction through comments and discussions about the clips, as well as sharing the site
+            with fellow fans.</p>
+        <h4>What's the goal of this site?</h4>
+        <p>The goal of this site is to create a comprehensive and easily accessible archive of the best Family Guy clips,
+            fostering a community of fans who can share and celebrate their favorite moments from the show.</p>
+    </main>
+    <footer>
+        <h6>&copy; 2025 Kason Fieldsted. All rights reserved.</h6>
+    </footer>
+</body>
+</html>
