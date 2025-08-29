@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+    <meta charset="UTF-8">
+    <title>Family Guy Funny Moments</title>
+</head>
+
+<body>
+    <h1>Family Guy Funny Moments</h1>
+    <h4>Who is our audience?</h4>
+
+
+    </head>
+    <p>
+        Back to Main Page:
+        <a href="file:///C:/Users/kason/OneDrive/Desktop/vscode/index.html">click here</a>
+    </p>
+
+
+
+
+    <main>
+        <p>Our audience consists of dedicated Family Guy fans who appreciate the humor and creativity of the show. We
+            hope that the people who use this site
+            can have a good laugh at funny clips or even just enjoy clips of their favorite characters. They are looking
+            for a centralized
+            platform to find and enjoy their favorite moments without the hassle of sifting through low-quality content
+            on other sites.
+            By catering to our wide audience, we aim to create a community where fans can connect and share their love for
+            Family Guy, no matter what age, gender, background, or nationality we can all bond over family guy.</p>
+    </main>
+    <footer>
+        <h6>&copy; 2025 Kason Fieldsted. All rights reserved.</h6>
+    </footer>
+</body>
+
+
+</html>
+
+
