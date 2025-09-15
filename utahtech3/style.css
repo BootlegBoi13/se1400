@@ -48,7 +48,7 @@ body {
  ;}
 
   #studenthero {background-image: url(images/studenthero.jpg);
-  height: 400px;
+  height: 300px;
   width: 1200px;
   background-size: cover;
   background-position: center ;}
@@ -61,7 +61,7 @@ body {
  ;}
 
   #facultyhero {background-image: url(images/facultyhero.jpg);
-  height: 400px;
+  height: 300px;
   width: 1200px;
   background-size: cover;
   background-position: center ;}
